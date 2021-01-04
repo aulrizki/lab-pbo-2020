@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LambdaExpressionExample5
+comment0.text=\r\nClass\ ini\ merupakan\ lambda\ expression\ yang\ \r\nmemiliki\ dua\ parameter\ sebagai\ argument-list.\r\n
+comment1.params=a\ b
+comment1.target=int\ add(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
