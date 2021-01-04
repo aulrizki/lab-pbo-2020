@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Line\ here.\r\n\r\n\ @author\ Muhammad\ Aulia\ Rizki\r\n\ @version\ 2020\r\n
+comment1.params=x1\ y1\ x2\ y2
+comment1.target=Line(int,\ int,\ int,\ int)
+comment2.params=begin\ end
+comment2.target=Line(Point,\ Point)
+comment3.params=
+comment3.target=Point\ getBegin()
+comment4.params=begin
+comment4.target=void\ setBegin(Point)
+comment5.params=
+comment5.target=Point\ getEnd()
+comment6.params=end
+comment6.target=void\ setEnd(Point)
+numComments=7
