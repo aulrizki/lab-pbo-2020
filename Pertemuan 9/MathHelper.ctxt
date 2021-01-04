@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MathHelper
+comment0.text=\r\n\ class\ ini\ berisi\ program\ untuk\ untuk\ membantu\ class\ kalkulator\r\n\r\n\ @author\ Muhammad\ Aulia\ Rizki\r\n\ @version\ 2020\r\n
+comment1.params=s1\ s2
+comment1.target=double\ penambahan(java.lang.String,\ java.lang.String)
+comment2.params=s1\ s2
+comment2.target=double\ pengurangan(java.lang.String,\ java.lang.String)
+comment3.params=s1\ s2
+comment3.target=double\ perkalian(java.lang.String,\ java.lang.String)
+comment4.params=s1\ s2
+comment4.target=double\ pembagian(java.lang.String,\ java.lang.String)
+numComments=5
