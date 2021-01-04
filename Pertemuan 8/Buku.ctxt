@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Buku
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Buku\ here.\r\n\r\n\ @author\ Muhammad\ Aulia\ Rizki\r\n\ @version\ 2020\r\n
+comment1.params=id\ nama\ pengarang\ publisher\ jumlah
+comment1.target=Buku(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+numComments=2
